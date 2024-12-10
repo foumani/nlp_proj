@@ -5,3 +5,7 @@ To install all of the depencies run:
 pip install -r requirements.txt
 ```
 NLP_Project.ipynb contains the contents of the project.
+
+Here is the link to the dataset: in [Section `Features`](#https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch?resource=download)
+
+## Feature
